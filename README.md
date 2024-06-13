@@ -1,6 +1,6 @@
 # Requirements
-* Terraform v1.0+
-* Terragrunt v0.35+
+* Terraform 
+* Terragrunt
 * Git
 
 # Install Terraform and Terragrunt
